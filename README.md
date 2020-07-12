@@ -2,7 +2,7 @@
 
 # Hi! I'm Melanie Magdalena, aka M2, and I create things. 🦄
 
-✨ Equal parts coffee, creativity & code. 🚧 Currently creating Stream Sites » http://streamsites.xyz (she/her)
+✨ Equal parts coffee, creativity & code. 🚧 Currently creating [Stream Sites](https://github.com/Somehow-Qualified/stream-sites) » http://streamsites.xyz (she/her)
 
 I'm currently expanding my web design, user experience, and accessibility skills. I love design, code, and no code. I also dabble in digital media, business operations, and workflow operations as I run most this things across my business portfolio.
 
@@ -10,7 +10,7 @@ I'm currently expanding my web design, user experience, and accessibility skills
 
 ### Open Source
 
-» At [Somehow Qualified](https://github.com/SomehowQualified) we're building Stream Sites: a free, open source stack to give content creators a web presence that they can *own* forever.
+» At [Somehow Qualified](https://github.com/SomehowQualified) we're building [Stream Sites](https://github.com/Somehow-Qualified/stream-sites): a free, open source stack to give content creators a web presence that they can *own* forever.
 
 » [Origins](https://knowyourorigins.org) is my passionate project. It's an open science initiative that publishes independent research by students, citizen scientists, and professionals. I'd like to rebuild the entire stack with Jamstack (hopefully in the near future) because making digital magazine flipbook layouts in InDesign _no longer brings joy_.
 
